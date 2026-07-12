@@ -1,0 +1,3 @@
+# fruit
+
+Git study project.
